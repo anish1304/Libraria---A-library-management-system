@@ -1,0 +1,35 @@
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+.env
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Node / Angular
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Test outputs
+.coverage
+htmlcov/
